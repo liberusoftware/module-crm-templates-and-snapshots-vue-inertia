@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-templates-and-snapshots-vue-inertia",
+  "capabilityKey": "liberusoftware/module-crm-templates-and-snapshots",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-crm-templates-and-snapshots-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/crm/nextjs/templates-and-snapshots.md",
+  "presentationPlan": "projects/crm/vue/templates-and-snapshots.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
